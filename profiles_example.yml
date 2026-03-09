@@ -1,0 +1,12 @@
+retail_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: postgres
+      password: 'your_password'
+      port: 5432
+      dbname: postgres
+      schema: analytics
+      threads: 4

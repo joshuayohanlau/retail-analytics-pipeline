@@ -1,0 +1,502 @@
+customer_id,first_name,last_name,email,phone,signup_date,city,region,customer_type
+CUST-0001,Joseph,Brown,joseph.brown87@gmail.com,077045321520,2023-12-07,York,England,premium
+CUST-0002,Mark,Morris,markmorrisATgmail.com,+44 7925 263 7924,2021-12-05,Leicester,England,premium
+CUST-0003,Jennifer,Murphy,jennifer.murphy38@icloud.com,076912962139,2022-02-17,Cardiff,Wales,premium
+CUST-0004,George,Lee,george.lee78@gmail.com,07573-488-5422,2024-05-08,Manchester,England,regular
+CUST-0005,John,Green,john.green92@icloud.com,07246-371-3287,2022-05-27,Reading,England,premium
+CUST-0006,George,Lewis,george.lewis15@gmail.com,07710-165-7304,2024-10-28,London,England,wholesale
+CUST-0007,Joseph,Wright,joseph.wright59@yahoo.co.uk,076128803927,2024-04-10,Liverpool,England,wholesale
+CUST-0008,Shirley,Smith,shirley.smith40@outlook.com,079996802290,2022-08-31,York,England,regular
+CUST-0009,Dorothy,Collins,dorothy.collins92@yahoo.co.uk,075486298397,2020-01-15,Birmingham,England,wholesale
+CUST-0010,Linda,Robinson,,073433858953,2024-07-11,Brighton,England,regular
+CUST-0011,Richard,Gonzalez,richard.gonzalez87@gmail.com,+44-7354-296-4116,2021-01-10,Cardiff,Wales,premium
+CUST-0012,Ashley,Martinez,ashley.martinez84@gmail.com,+44 7653 956 1241,2020-01-05,Southampton,England,premium
+CUST-0013,Mason,Torres,mason.torres85@icloud.com,+44 7835 598 3536,2022-09-03,Bath,England,wholesale
+CUST-0014,Charles,Davis,charles.davis9@icloud.com,07692-708-1651,2021-02-22,Sheffield,England,regular
+CUST-0015,Dorothy,Phillips,dorothy.phillips2@gmail.com,07618-371-3170,2022-06-16,York,England,wholesale
+CUST-0016,Joshua,Johnson,joshua.johnson18@gmail.com,07378-388-4450,2021-05-29,Manchester,England,regular
+CUST-0017,  Aiden ,Scott,aiden.scott21@outlook.com,076741092832,2020-03-26,Newcastle,England,premium
+CUST-0018,Jennifer,Rivera,jennifer.rivera53@icloud.com,07919-930-3900,2022-04-23,Glasgow,Scotland,premium
+CUST-0019,Charles,Wilson,,+44-7328-124-4164,2024-11-05,Birmingham,England,premium
+CUST-0020,Brian,Evans,brian.evans15@gmail.com,+44-7453-846-6139,2022-11-13,Leeds,England,premium
+CUST-0021,Pamela,Harris,pamelaharrisATgmail.com,07780-438-6143,2023-09-27,Brighton,England,premium
+CUST-0022,Stephanie,Nguyen,stephanie.nguyen87@hotmail.com,+44-7540-904-6279,2023-10-15,Edinburgh,Scotland,wholesale
+CUST-0023,Logan,Perez,logan.perez43@icloud.com,+44-7125-147-5011,2024-04-22,Birmingham,England,premium
+CUST-0024,Rebecca,Harris,rebecca.harris84@yahoo.co.uk,+44 7804 105 2746,2024-06-29,Oxford,England,wholesale
+CUST-0025,Shirley,Green,shirley.green55@icloud.com,+44-7960-752-5543,2021-07-16,Oxford,England,regular
+CUST-0026,Andrew,Walker,andrew.walker20@yahoo.co.uk,+44 7336 492 3503,2022-05-10,Southampton,England,wholesale
+CUST-0027,Robert,Carter,robert.carter54@hotmail.com,+44-7546-597-1475,2023-10-22,Southampton,England,wholesale
+CUST-0028,Lisa,Cook,lisa.cook76@hotmail.com,+44-7286-151-5262,2022-07-20,Sheffield,England,premium
+CUST-0029,Timothy,Scott,timothy.scott61@gmail.com,071534584673,2023-06-26,Bristol,England,regular
+CUST-0030,Thomas,Rogers,thomas.rogers99@outlook.com,+44-7419-689-7149,2021-02-10,Birmingham,England,wholesale
+CUST-0031,Ashley,Wilson,ashley.wilson73@gmail.com,+44-7112-969-7882,2022-01-11,Oxford,England,wholesale
+CUST-0032,Karen,Edwards,karen.edwards69@icloud.com,+44-7950-188-5569,2022-08-09,Reading,England,wholesale
+CUST-0033,  Timothy ,Baker,timothy.baker46@yahoo.co.uk,+44-7295-187-4954,2024-04-01,Glasgow,Scotland,wholesale
+CUST-0034,Logan,Peterson,,07779-695-7046,2024-03-07,York,England,premium
+CUST-0035,Amanda,Murphy,amanda.murphy41@yahoo.co.uk,07296-321-8933,2024-09-01,Edinburgh,Scotland,premium
+CUST-0036,Sandra,Campbell,,07814-229-9042,2022-06-21,Sheffield,England,regular
+CUST-0037,Michael,Allen,michael.allen63@hotmail.com,072552525978,2022-02-18,Oxford,England,premium
+CUST-0038,Joshua,Collins,joshua.collins98@gmail.com,+44 7312 740 4457,2023-11-12,Leicester,England,premium
+CUST-0039,Emily,Jones,emily.jones10@hotmail.com,07535-217-9922,2020-05-26,Manchester,England,regular
+CUST-0040,Donna,Torres,donna.torres35@hotmail.com,+44 7612 652 9090,2023-10-12,Reading,England,wholesale
+CUST-0041,Robert,Wright,robert.wright84@icloud.com,+44 7552 384 3973,2021-11-06,Brighton,England,wholesale
+CUST-0042,Amy,Torres,amy.torres59@gmail.com,+44-7773-990-9889,2021-01-19,Bath,England,premium
+CUST-0043,Helen,Cooper,helen.cooper17@icloud.com,+44 7394 548 8941,2024-09-19,Leeds,England,premium
+CUST-0044,Jessica,Martin,jessica.martin54@outlook.com,07492-295-9327,2024-10-15,Brighton,England,premium
+CUST-0045,Elijah,Wright,elijah.wright75@icloud.com,075576518935,2021-05-04,Reading,England,premium
+CUST-0046,  Sandra ,Turner,sandra.turner50@hotmail.com,+44 7779 911 3492,2022-07-24,London,England,wholesale
+CUST-0047,Christopher,Turner,christopher.turner44@outlook.com,+44 7738 809 7512,2021-04-25,Newcastle,England,regular
+CUST-0048,Barbara,Edwards,barbara.edwards57@gmail.com,071291476314,2022-04-23,Reading,England,wholesale
+CUST-0049,Nancy,Perez,nancy.perez64@yahoo.co.uk,075727535161,2021-12-08,Reading,England,premium
+CUST-0050,Aiden,Allen,aiden.allen14@hotmail.com,+44-7381-108-1803,2021-08-09,Glasgow,Scotland,wholesale
+CUST-0051,Amanda,Lewis,amanda.lewis81@yahoo.co.uk,07134-693-6977,2022-04-30,Liverpool,England,regular
+CUST-0052,Thomas,Campbell,thomas.campbell62@outlook.com,07177-244-4696,2022-03-19,London,England,premium
+CUST-0053,Henry,Thomas,henry.thomas49@icloud.com,+44-7724-326-2035,2021-09-10,Brighton,England,regular
+CUST-0054,Sarah,Garcia,sarah.garcia31@gmail.com,+44-7524-770-2622,2021-07-26,Manchester,England,wholesale
+CUST-0055,Melissa,Ramirez,melissa.ramirez88@gmail.com,+44 7476 657 6876,2021-11-14,Glasgow,Scotland,regular
+CUST-0056,Jack,Clark,jack.clark30@yahoo.co.uk,079077101046,2024-11-09,London,England,regular
+CUST-0057,Mary,Rivera,mary.rivera34@yahoo.co.uk,+44-7625-707-2786,2023-06-13,Manchester,England,wholesale
+CUST-0058,Benjamin,Hill,benjamin.hill52@hotmail.com,076028298267,2023-07-20,Reading,England,wholesale
+CUST-0059,Michelle,Carter,michelle.carter56@icloud.com,+44-7523-447-8430,2020-07-13,Sheffield,England,premium
+CUST-0060,Kenneth,Allen,kenneth.allen12@gmail.com,+44 7951 187 2527,2024-11-24,Brighton,England,wholesale
+CUST-0061,Michael,Torres,michael.torres20@yahoo.co.uk,079672106736,2024-09-26,York,England,wholesale
+CUST-0062,Noah,Brown,noah.brown24@gmail.com,+44 7379 819 6062,2023-07-20,London,England,regular
+CUST-0063,Shirley,Ramirez,shirley.ramirez93@outlook.com,+44-7790-183-5458,2022-09-21,Leicester,England,premium
+CUST-0064,Rebecca,Wright,rebecca.wright37@gmail.com,076397836053,2021-03-08,Bristol,England,premium
+CUST-0065,Emily,Adams,emily.adams49@yahoo.co.uk,+44 7645 820 4770,2023-03-25,Brighton,England,wholesale
+CUST-0066,Stephanie,Parker,stephanie.parker80@yahoo.co.uk,07349-546-7560,2021-03-29,Sheffield,England,regular
+CUST-0067,Elizabeth,Anderson,elizabeth.anderson94@outlook.com,073412053399,2023-07-10,Cambridge,England,premium
+CUST-0068,Jack,Morris,jack.morris42@icloud.com,07580-552-5961,2021-09-27,Oxford,England,premium
+CUST-0069,John,Davis,john.davis79@gmail.com,075736941672,2022-07-11,Leeds,England,premium
+CUST-0070,  William ,Thompson,william.thompson67@icloud.com,07518-893-6543,2020-07-12,York,England,wholesale
+CUST-0071,Deborah,Torres,deborah.torres20@icloud.com,07232-709-2388,2023-10-04,Bath,England,regular
+CUST-0072,  Aiden ,Campbell,aiden.campbell99@outlook.com,+44 7597 296 4711,2024-11-29,Leicester,England,regular
+CUST-0073,Liam,Carter,liam.carter22@icloud.com,075204734891,2021-09-25,Cambridge,England,regular
+CUST-0074,Melissa,Stewart,melissa.stewart54@icloud.com,+44 7265 936 4271,2022-11-22,Leeds,England,premium
+CUST-0075,William,Lee,william.lee12@hotmail.com,+44 7327 936 8391,2020-02-27,Sheffield,England,regular
+CUST-0076,Kevin,Jackson,kevin.jackson98@yahoo.co.uk,+44-7955-253-9991,2021-08-13,Glasgow,Scotland,premium
+CUST-0077,Jessica,Miller,jessica.miller15@gmail.com,07688-347-3352,2022-05-03,Liverpool,England,wholesale
+CUST-0078,William,Campbell,william.campbell71@icloud.com,07482-359-1266,2023-09-07,Leeds,England,wholesale
+CUST-0079,  Kevin ,Moore,kevin.moore88@yahoo.co.uk,+44 7575 812 8840,2024-12-19,Manchester,England,premium
+CUST-0080,Donna,Phillips,donna.phillips37@yahoo.co.uk,+44-7547-509-8204,2021-01-17,Cambridge,England,wholesale
+CUST-0081,Amy,Mitchell,amy.mitchell11@hotmail.com,+44-7776-402-6021,2022-05-22,Liverpool,England,wholesale
+CUST-0082,Lucas,Hall,lucas.hall56@icloud.com,+44 7381 754 1939,2021-04-28,Nottingham,England,premium
+CUST-0083,Deborah,Jones,deborah.jones57@outlook.com,076424757521,2022-03-03,York,England,regular
+CUST-0084,Dorothy,King,dorothy.king26@hotmail.com,07189-929-6236,2024-10-09,Liverpool,England,wholesale
+CUST-0085,Daniel,Campbell,daniel.campbell31@yahoo.co.uk,07578-922-3126,2024-01-08,Cambridge,England,wholesale
+CUST-0086,Ethan,Turner,ethan.turner58@gmail.com,+44 7577 796 9476,2021-09-14,Liverpool,England,regular
+CUST-0087,Michelle,Lewis,michelle.lewis33@gmail.com,072287405961,2023-07-02,Leicester,England,premium
+CUST-0088,Jack,Garcia,,07732-754-1496,2021-09-10,Cambridge,England,regular
+CUST-0089,Stephanie,Hill,stephanie.hill62@hotmail.com,+44-7851-981-6658,2022-01-28,Bath,England,wholesale
+CUST-0090,Susan,Green,susan.green13@yahoo.co.uk,079847307850,2022-10-17,Bath,England,premium
+CUST-0091,Amy,Flores,amy.flores31@hotmail.com,+44 7320 697 6781,2024-12-12,Cardiff,Wales,wholesale
+CUST-0092,George,Evans,george.evans47@yahoo.co.uk,074956168378,2022-03-17,Nottingham,England,premium
+CUST-0093,Brenda,Campbell,brenda.campbell6@icloud.com,07631-567-3440,2021-10-14,Liverpool,England,premium
+CUST-0094,Noah,Hill,noah.hill91@hotmail.com,+44 7676 406 8780,2021-06-27,Reading,England,wholesale
+CUST-0095,Sandra,Miller,sandra.miller49@icloud.com,+44-7421-528-3481,2022-04-20,Bath,England,wholesale
+CUST-0096,Logan,Davis,logan.davis68@hotmail.com,075706456608,2021-09-03,Glasgow,Scotland,premium
+CUST-0097,Andrew,Clark,andrew.clark93@icloud.com,07488-504-6654,2024-01-02,Birmingham,England,premium
+CUST-0098,Lucas,Allen,lucas.allen72@outlook.com,+44 7812 378 3249,2021-11-07,Cambridge,England,regular
+CUST-0099,Sarah,Smith,sarah.smith62@hotmail.com,074283921969,2024-09-11,Liverpool,England,regular
+CUST-0100,Oliver,Cooper,oliver.cooper5@outlook.com,+44-7605-237-9261,2024-07-14,Leeds,England,premium
+CUST-0101,Charles,Murphy,charlesmurphyATgmail.com,07279-725-7643,2023-10-02,Leeds,England,regular
+CUST-0102,Sarah,Morgan,sarah.morgan58@yahoo.co.uk,+44 7871 373 6400,2020-11-23,Southampton,England,wholesale
+CUST-0103,Elijah,Flores,elijah.flores79@outlook.com,+44-7525-818-9998,2024-06-30,Edinburgh,Scotland,regular
+CUST-0104,Liam,Hernandez,liam.hernandez15@icloud.com,+44 7163 948 9972,2024-01-08,Reading,England,premium
+CUST-0105,Barbara,Morris,barbara.morris73@hotmail.com,077889266049,2020-04-02,Brighton,England,premium
+CUST-0106,David,Davis,david.davis37@gmail.com,+44 7518 284 3218,2023-09-17,York,England,regular
+CUST-0107,Brian,Thomas,brian.thomas1@yahoo.co.uk,+44-7943-335-5055,2021-07-18,Edinburgh,Scotland,wholesale
+CUST-0108,Joseph,Jones,joseph.jones31@gmail.com,+44-7350-858-1724,2023-01-10,Edinburgh,Scotland,regular
+CUST-0109,Sarah,Nguyen,sarah.nguyen77@icloud.com,+44 7891 788 6253,2023-04-26,Liverpool,England,wholesale
+CUST-0110,  Aiden ,Cooper,aiden.cooper68@hotmail.com,07485-288-9813,2020-10-22,Oxford,England,regular
+CUST-0111,Brenda,Turner,brenda.turner33@yahoo.co.uk,+44 7308 438 2295,2021-01-20,Reading,England,wholesale
+CUST-0112,Brenda,Ramirez,brenda.ramirez28@gmail.com,07348-812-4350,2022-12-28,Nottingham,England,premium
+CUST-0113,Dorothy,Campbell,dorothy.campbell98@hotmail.com,07146-676-4625,2023-04-11,Reading,England,wholesale
+CUST-0114,Rebecca,Nguyen,rebecca.nguyen64@yahoo.co.uk,073638819005,2023-01-24,Cambridge,England,regular
+CUST-0115,Anna,Davis,anna.davis98@gmail.com,+44-7109-323-9285,2023-06-19,Leicester,England,premium
+CUST-0116,  Alexander ,Williams,alexanderwilliamsATgmail.com,+44 7642 839 5501,2021-05-08,Edinburgh,Scotland,wholesale
+CUST-0117,Shirley,Allen,shirley.allen52@outlook.com,+44 7570 678 4984,2022-02-11,York,England,premium
+CUST-0118,Linda,Johnson,linda.johnson73@outlook.com,07988-808-8790,2023-02-28,Manchester,England,regular
+CUST-0119,Kenneth,Williams,kenneth.williams10@hotmail.com,+44 7406 266 4939,2021-12-09,Manchester,England,regular
+CUST-0120,Sharon,Robinson,sharon.robinson51@icloud.com,077493798381,2023-09-15,Southampton,England,regular
+CUST-0121,Helen,Nguyen,helen.nguyen49@yahoo.co.uk,07469-209-2499,2020-07-28,Bristol,England,regular
+CUST-0122,Nancy,Edwards,nancy.edwards12@gmail.com,+44 7462 667 2524,2023-02-19,Glasgow,Scotland,wholesale
+CUST-0123,Benjamin,Perez,benjamin.perez64@outlook.com,+44-7469-357-5040,2021-02-04,Oxford,England,regular
+CUST-0124,  Sarah ,Hill,sarah.hill43@hotmail.com,+44-7590-421-3910,2021-08-19,Cambridge,England,wholesale
+CUST-0125,Ashley,Adams,ashley.adams73@gmail.com,+44 7304 706 9939,2024-06-17,Brighton,England,wholesale
+CUST-0126,Amy,Moore,amy.moore49@hotmail.com,+44 7175 559 8851,2021-05-23,Nottingham,England,regular
+CUST-0127,Noah,Garcia,noah.garcia56@outlook.com,+44-7556-483-7408,2023-04-20,Bath,England,regular
+CUST-0128,Brian,Brown,brian.brown15@gmail.com,+44-7633-594-6706,2024-01-18,Oxford,England,premium
+CUST-0129,  David ,Hill,davidhillATgmail.com,07858-349-9454,2022-08-04,Glasgow,Scotland,premium
+CUST-0130,Nancy,White,nancywhiteATgmail.com,+44 7728 302 8365,2023-01-04,Liverpool,England,premium
+CUST-0131,Michelle,Sanchez,michelle.sanchez82@icloud.com,+44 7420 711 7367,2021-10-03,Leeds,England,regular
+CUST-0132,Donna,Anderson,donna.anderson77@hotmail.com,07750-650-3838,2021-10-06,Oxford,England,wholesale
+CUST-0133,Michael,Rivera,michael.rivera72@hotmail.com,+44 7617 768 9109,2021-03-27,Newcastle,England,regular
+CUST-0134,Kimberly,Lewis,kimberly.lewis71@hotmail.com,+44-7942-874-1681,2022-05-20,Leeds,England,wholesale
+CUST-0135,Ashley,Hill,,+44-7314-930-6744,2020-10-12,Edinburgh,Scotland,regular
+CUST-0136,Linda,Hall,linda.hall38@outlook.com,077959342560,2023-12-27,Sheffield,England,regular
+CUST-0137,Oliver,Peterson,oliver.peterson58@hotmail.com,+44 7177 748 2525,2024-09-30,Birmingham,England,wholesale
+CUST-0138,Mason,Rivera,mason.rivera28@hotmail.com,07660-691-3139,2024-04-10,Manchester,England,regular
+CUST-0139,  Richard ,Murphy,richard.murphy1@hotmail.com,07995-997-5489,2023-09-22,Liverpool,England,regular
+CUST-0140,Oliver,Flores,oliver.flores91@gmail.com,+44 7197 101 4496,2024-07-31,Leeds,England,premium
+CUST-0141,Thomas,Morgan,thomas.morgan14@gmail.com,072404913181,2024-01-19,Edinburgh,Scotland,wholesale
+CUST-0142,Karen,Turner,karen.turner18@gmail.com,074595396152,2023-05-13,Leicester,England,premium
+CUST-0143,Patricia,Hill,patricia.hill38@hotmail.com,07346-611-2163,2024-10-28,Reading,England,premium
+CUST-0144,George,Thompson,george.thompson76@gmail.com,+44-7393-743-9209,2022-04-03,Birmingham,England,wholesale
+CUST-0145,Henry,Martin,henry.martin20@yahoo.co.uk,+44 7649 434 7401,2022-06-08,Leeds,England,premium
+CUST-0146,Noah,Davis,noah.davis2@gmail.com,07635-629-5247,2020-08-29,London,England,premium
+CUST-0147,Aiden,Wright,aiden.wright64@gmail.com,071566113734,2020-01-06,Manchester,England,regular
+CUST-0148,Ashley,Garcia,ashley.garcia71@gmail.com,07526-837-6241,2023-10-10,Manchester,England,regular
+CUST-0149,Mark,Garcia,mark.garcia40@outlook.com,+44-7857-737-4974,2022-10-07,Edinburgh,Scotland,wholesale
+CUST-0150,Anna,Young,annayoungATgmail.com,074431017164,2020-05-02,Bristol,England,wholesale
+CUST-0151,  Kimberly ,Lopez,kimberly.lopez90@hotmail.com,+44-7176-706-2020,2020-09-24,Glasgow,Scotland,premium
+CUST-0152,Dorothy,Green,dorothy.green41@outlook.com,+44-7259-208-3693,2022-04-12,Leeds,England,wholesale
+CUST-0153,Amanda,Clark,amanda.clark21@gmail.com,07320-955-6370,2020-04-10,Newcastle,England,premium
+CUST-0154,Daniel,Brown,daniel.brown32@icloud.com,079239123290,2022-03-31,Nottingham,England,wholesale
+CUST-0155,William,King,william.king83@yahoo.co.uk,+44-7151-272-8096,2022-02-22,Brighton,England,regular
+CUST-0156,Amanda,Ramirez,amanda.ramirez5@yahoo.co.uk,+44-7162-189-5583,2021-02-12,Bath,England,regular
+CUST-0157,Anna,Williams,anna.williams63@icloud.com,07284-126-6224,2022-08-24,Bath,England,premium
+CUST-0158,Owen,Robinson,owen.robinson69@outlook.com,07463-959-3846,2020-02-27,Nottingham,England,wholesale
+CUST-0159,Jack,Jackson,jack.jackson70@hotmail.com,+44 7416 279 9035,2023-06-11,Edinburgh,Scotland,regular
+CUST-0160,Carol,Thompson,carol.thompson19@gmail.com,+44 7700 821 3320,2021-10-22,Bristol,England,regular
+CUST-0161,Sharon,Peterson,sharon.peterson46@icloud.com,+44 7328 781 3872,2021-10-13,Leicester,England,regular
+CUST-0162,Jack,Wilson,jack.wilson45@yahoo.co.uk,07557-111-5345,2020-08-09,London,England,regular
+CUST-0163,Deborah,Stewart,deborah.stewart49@hotmail.com,+44 7459 659 7149,2021-10-14,Cardiff,Wales,regular
+CUST-0164,Elizabeth,Baker,elizabeth.baker12@icloud.com,07769-268-8113,2021-01-24,Brighton,England,wholesale
+CUST-0165,Sebastian,King,sebastian.king74@hotmail.com,072571556911,2021-02-27,Liverpool,England,wholesale
+CUST-0166,Emily,Hernandez,emily.hernandez63@hotmail.com,+44 7776 371 2493,2022-08-10,Cardiff,Wales,regular
+CUST-0167,Paul,Davis,paul.davis70@outlook.com,076661627342,2020-06-10,Southampton,England,wholesale
+CUST-0168,John,Jackson,john.jackson28@yahoo.co.uk,07799-545-4308,2024-01-29,Birmingham,England,regular
+CUST-0169,Deborah,Phillips,deborah.phillips90@gmail.com,+44 7738 701 9561,2020-07-25,Newcastle,England,wholesale
+CUST-0170,Brian,Turner,brian.turner5@hotmail.com,+44-7807-343-1807,2022-02-01,London,England,premium
+CUST-0171,Joshua,Flores,joshua.flores30@gmail.com,078929456257,2024-08-14,Brighton,England,wholesale
+CUST-0172,Alexander,Mitchell,alexander.mitchell91@outlook.com,+44 7618 513 3222,2022-07-23,Manchester,England,premium
+CUST-0173,Betty,Scott,betty.scott88@gmail.com,07281-991-8775,2021-06-13,Birmingham,England,premium
+CUST-0174,  Patricia ,Roberts,patricia.roberts29@yahoo.co.uk,+44 7762 330 4387,2023-05-30,Newcastle,England,wholesale
+CUST-0175,Kimberly,Collins,kimberly.collins60@yahoo.co.uk,07698-204-1120,2020-08-09,Cambridge,England,regular
+CUST-0176,Carol,Scott,carol.scott25@outlook.com,07776-427-3292,2022-05-07,Southampton,England,premium
+CUST-0177,John,Harris,john.harris86@hotmail.com,079652743967,2021-11-18,Birmingham,England,regular
+CUST-0178,Amanda,Lewis,amanda.lewis48@outlook.com,+44 7366 699 5817,2022-02-20,Bath,England,premium
+CUST-0179,Ethan,Miller,ethan.miller53@outlook.com,07897-182-8988,2020-01-10,Oxford,England,premium
+CUST-0180,Anthony,Perez,anthony.perez17@gmail.com,+44 7729 544 8035,2024-03-30,Bath,England,regular
+CUST-0181,Robert,Smith,robert.smith40@outlook.com,07271-166-1749,2023-11-07,Bristol,England,premium
+CUST-0182,Alexander,Rivera,alexander.rivera3@hotmail.com,+44-7226-475-1612,2021-06-07,York,England,wholesale
+CUST-0183,Michael,Miller,michaelmillerATgmail.com,+44 7806 218 7828,2023-09-17,Leeds,England,wholesale
+CUST-0184,Benjamin,Wright,benjamin.wright66@gmail.com,073892162741,2022-04-19,Newcastle,England,regular
+CUST-0185,Jennifer,Cooper,jennifer.cooper1@yahoo.co.uk,07252-192-9383,2022-07-24,Newcastle,England,premium
+CUST-0186,Cynthia,Miller,cynthia.miller47@outlook.com,075368562898,2022-06-15,Leicester,England,premium
+CUST-0187,Barbara,Mitchell,barbara.mitchell35@hotmail.com,+44-7964-263-2699,2022-09-15,Reading,England,wholesale
+CUST-0188,Lucas,White,lucas.white62@yahoo.co.uk,075511472037,2023-10-03,Sheffield,England,wholesale
+CUST-0189,Benjamin,Gonzalez,benjamin.gonzalez20@hotmail.com,+44 7959 946 1894,2021-10-18,Glasgow,Scotland,premium
+CUST-0190,Kimberly,Miller,kimberly.miller11@yahoo.co.uk,+44 7570 554 8341,2020-03-14,York,England,wholesale
+CUST-0191,James,Lopez,james.lopez72@icloud.com,07936-328-8445,2020-08-21,Leeds,England,wholesale
+CUST-0192,Mark,Smith,mark.smith71@outlook.com,071462689067,2024-10-11,Southampton,England,regular
+CUST-0193,Mason,Harris,mason.harris16@icloud.com,+44-7643-853-1795,2022-09-16,Bath,England,regular
+CUST-0194,Owen,Thompson,owen.thompson78@icloud.com,075287235067,2023-12-04,Bath,England,premium
+CUST-0195,Sebastian,Green,sebastian.green27@yahoo.co.uk,+44 7739 831 5760,2023-02-25,Cambridge,England,wholesale
+CUST-0196,Pamela,Parker,pamela.parker2@hotmail.com,07786-157-4275,2020-10-26,Manchester,England,wholesale
+CUST-0197,Emily,Clark,,+44 7933 563 2679,2022-03-04,Brighton,England,wholesale
+CUST-0198,  Kenneth ,Miller,kenneth.miller29@hotmail.com,07856-717-4218,2023-10-30,Birmingham,England,regular
+CUST-0199,Daniel,Thomas,daniel.thomas21@yahoo.co.uk,07826-258-1654,2023-03-18,York,England,premium
+CUST-0200,Elizabeth,Green,elizabeth.green21@icloud.com,075131946724,2023-06-20,Bath,England,premium
+CUST-0201,Brenda,Johnson,brenda.johnson80@icloud.com,07495-362-9851,2022-11-07,Oxford,England,premium
+CUST-0202,Jennifer,Nguyen,jennifer.nguyen22@gmail.com,+44 7891 650 9736,2024-08-24,Brighton,England,wholesale
+CUST-0203,  Elizabeth ,Martin,elizabeth.martin7@gmail.com,+44-7561-745-7626,2022-03-08,Leeds,England,wholesale
+CUST-0204,James,Rodriguez,james.rodriguez46@gmail.com,+44-7883-548-7249,2020-03-04,Cambridge,England,regular
+CUST-0205,Henry,Lewis,henry.lewis38@icloud.com,+44-7226-142-1082,2020-06-23,Newcastle,England,regular
+CUST-0206,Brian,Ramirez,brian.ramirez24@yahoo.co.uk,+44-7971-869-9992,2020-05-29,Newcastle,England,wholesale
+CUST-0207,David,Allen,david.allen46@outlook.com,072023912143,2022-01-16,Sheffield,England,premium
+CUST-0208,Lisa,Smith,lisa.smith36@hotmail.com,+44-7556-467-6004,2020-12-25,Leicester,England,regular
+CUST-0209,Kimberly,Moore,kimberly.moore94@gmail.com,+44-7137-664-5269,2020-10-31,Nottingham,England,premium
+CUST-0210,Mark,Nguyen,mark.nguyen65@outlook.com,079689253717,2022-09-17,Nottingham,England,regular
+CUST-0211,Mark,Peterson,mark.peterson67@yahoo.co.uk,07140-764-6309,2021-06-23,Reading,England,wholesale
+CUST-0212,Jack,Thompson,jack.thompson67@gmail.com,+44 7357 485 4651,2020-10-11,Oxford,England,regular
+CUST-0213,Sandra,Martinez,sandra.martinez47@yahoo.co.uk,+44-7593-791-8844,2020-11-26,Brighton,England,regular
+CUST-0214,Ashley,Garcia,ashley.garcia6@icloud.com,+44 7686 250 1916,2023-05-27,Cambridge,England,premium
+CUST-0215,Lisa,Lewis,lisa.lewis80@yahoo.co.uk,072718416614,2021-02-18,Bath,England,wholesale
+CUST-0216,Rebecca,Martin,rebecca.martin5@icloud.com,+44-7717-652-1019,2022-01-28,Manchester,England,wholesale
+CUST-0217,Shirley,Collins,shirley.collins45@hotmail.com,+44-7979-185-5641,2020-01-12,London,England,wholesale
+CUST-0218,Benjamin,Thomas,benjamin.thomas53@outlook.com,07367-975-9783,2022-03-24,Edinburgh,Scotland,premium
+CUST-0219,Sebastian,Morgan,sebastian.morgan74@outlook.com,+44 7452 892 7522,2022-03-31,Sheffield,England,wholesale
+CUST-0220,Noah,Miller,noahmillerATgmail.com,+44 7193 943 3381,2022-03-31,Leicester,England,wholesale
+CUST-0221,Benjamin,Torres,benjamin.torres82@yahoo.co.uk,073069709489,2023-10-12,Manchester,England,premium
+CUST-0222,Donald,Smith,donald.smith46@hotmail.com,07115-854-2124,2024-07-28,Cardiff,Wales,regular
+CUST-0223,Nicole,Harris,nicoleharrisATgmail.com,07615-401-6570,2024-07-23,Reading,England,premium
+CUST-0224,Lucas,Carter,lucas.carter88@hotmail.com,07169-491-4610,2021-12-24,Bath,England,wholesale
+CUST-0225,Mary,King,mary.king10@outlook.com,+44-7864-799-4115,2021-04-25,Glasgow,Scotland,premium
+CUST-0226,Anthony,Robinson,anthony.robinson14@yahoo.co.uk,+44-7480-735-6167,2024-12-09,Reading,England,premium
+CUST-0227,Alexander,White,alexander.white97@yahoo.co.uk,076389187933,2020-09-03,Bath,England,premium
+CUST-0228,  Kenneth ,Johnson,kenneth.johnson47@outlook.com,072916615306,2021-03-07,Brighton,England,wholesale
+CUST-0229,Melissa,Campbell,melissa.campbell74@yahoo.co.uk,+44-7300-249-3450,2020-12-27,Brighton,England,premium
+CUST-0230,Sarah,Green,sarah.green7@icloud.com,07587-959-2577,2023-02-21,York,England,premium
+CUST-0231,Brian,Williams,brian.williams26@icloud.com,+44 7690 689 9821,2021-08-09,Oxford,England,wholesale
+CUST-0232,Christopher,Perez,christopher.perez74@icloud.com,+44-7768-398-5382,2022-06-30,Nottingham,England,wholesale
+CUST-0233,Emma,Morris,emmamorrisATgmail.com,+44-7205-197-2045,2020-02-23,Southampton,England,wholesale
+CUST-0234,William,Wilson,william.wilson40@hotmail.com,07234-639-3795,2022-08-14,York,England,premium
+CUST-0235,Sebastian,Stewart,sebastian.stewart77@icloud.com,+44-7652-332-2467,2022-04-24,Cardiff,Wales,regular
+CUST-0236,  Joshua ,Johnson,joshua.johnson37@outlook.com,+44 7580 647 1136,2021-01-21,Brighton,England,wholesale
+CUST-0237,Sharon,Phillips,sharon.phillips29@hotmail.com,07882-919-5454,2024-10-13,Birmingham,England,regular
+CUST-0238,Sarah,Nguyen,sarah.nguyen63@icloud.com,+44-7388-375-3048,2021-04-21,Birmingham,England,regular
+CUST-0239,Mary,Cooper,mary.cooper48@hotmail.com,074381823393,2024-09-19,Cardiff,Wales,premium
+CUST-0240,Mary,Thomas,mary.thomas32@hotmail.com,07633-781-4415,2024-01-31,Manchester,England,wholesale
+CUST-0241,Sebastian,Thomas,sebastian.thomas86@gmail.com,,2020-03-27,Reading,England,wholesale
+CUST-0242,Logan,Martin,logan.martin88@gmail.com,07818-649-2759,2024-06-02,Nottingham,England,premium
+CUST-0243,Matthew,Williams,matthew.williams63@gmail.com,+44-7656-456-6303,2024-08-29,Leicester,England,wholesale
+CUST-0244,Charles,Rodriguez,charles.rodriguez47@icloud.com,07119-734-6965,2023-09-10,York,England,premium
+CUST-0245,Matthew,Cooper,matthew.cooper83@hotmail.com,076357742092,2021-01-27,Leeds,England,regular
+CUST-0246,Pamela,Roberts,pamela.roberts7@outlook.com,07952-181-8668,2024-12-28,Brighton,England,premium
+CUST-0247,Linda,Wright,linda.wright28@gmail.com,078423369710,2023-02-17,Brighton,England,wholesale
+CUST-0248,Susan,Rivera,susan.rivera22@gmail.com,07646-714-8258,2023-07-20,Brighton,England,wholesale
+CUST-0249,Michelle,Walker,michelle.walker47@outlook.com,+44 7563 558 7505,2021-03-30,Edinburgh,Scotland,premium
+CUST-0250,Robert,Scott,robert.scott20@icloud.com,+44 7196 138 8542,2023-03-11,Edinburgh,Scotland,wholesale
+CUST-0251,Elizabeth,Adams,elizabeth.adams13@icloud.com,+44-7889-442-6700,2024-11-12,Leeds,England,regular
+CUST-0252,Nicole,Johnson,nicole.johnson6@icloud.com,+44 7426 652 3450,2021-08-16,Southampton,England,regular
+CUST-0253,Thomas,Baker,thomas.baker34@hotmail.com,+44-7672-302-8993,2021-02-05,York,England,wholesale
+CUST-0254,Shirley,Young,shirley.young12@icloud.com,07295-428-6644,2021-12-17,Leicester,England,premium
+CUST-0255,Helen,Jackson,helen.jackson20@outlook.com,+44 7875 845 2405,2024-07-05,Leeds,England,premium
+CUST-0256,  Laura ,Rogers,laura.rogers70@yahoo.co.uk,+44 7635 868 5237,2020-05-03,Newcastle,England,regular
+CUST-0257,Helen,Wright,helenwrightATgmail.com,077789726901,2022-11-07,Leeds,England,premium
+CUST-0258,Alexander,Lopez,alexander.lopez6@gmail.com,07862-260-1301,2021-04-28,Bath,England,premium
+CUST-0259,Linda,Allen,linda.allen72@gmail.com,+44-7633-794-4726,2020-11-08,Brighton,England,premium
+CUST-0260,Nicole,Nelson,nicole.nelson70@icloud.com,079832416062,2023-02-15,York,England,wholesale
+CUST-0261,Jessica,White,jessica.white53@outlook.com,+44 7521 410 8258,2023-06-07,Leicester,England,premium
+CUST-0262,Nicole,Robinson,nicolerobinsonATgmail.com,+44-7288-972-7348,2020-12-01,Edinburgh,Scotland,regular
+CUST-0263,John,Turner,,07875-309-2083,2024-12-22,Glasgow,Scotland,premium
+CUST-0264,Stephanie,Garcia,stephanie.garcia79@hotmail.com,076377561630,2022-03-21,Manchester,England,wholesale
+CUST-0265,Deborah,Miller,deborah.miller60@outlook.com,+44 7270 532 5823,2023-04-13,York,England,regular
+CUST-0266,Oliver,Turner,,+44 7564 704 4308,2022-07-09,Nottingham,England,regular
+CUST-0267,Shirley,Roberts,shirley.roberts49@yahoo.co.uk,078862746491,2020-04-15,Brighton,England,premium
+CUST-0268,Donna,Morris,donna.morris1@yahoo.co.uk,071125699153,2023-09-12,Cambridge,England,premium
+CUST-0269,Ethan,Stewart,ethan.stewart36@icloud.com,07156-768-6718,2020-06-28,Manchester,England,regular
+CUST-0270,Rebecca,Thompson,rebecca.thompson74@icloud.com,+44 7906 675 3906,2024-09-23,York,England,regular
+CUST-0271,Emily,Rogers,emily.rogers53@icloud.com,+44-7189-595-5705,2021-10-10,Cardiff,Wales,wholesale
+CUST-0272,Pamela,Rivera,pamela.rivera64@hotmail.com,078253974171,2022-04-29,Brighton,England,regular
+CUST-0273,Kevin,Hall,kevinhallATgmail.com,+44 7306 806 5614,2021-11-30,Southampton,England,wholesale
+CUST-0274,Jack,Brown,jack.brown61@hotmail.com,+44 7916 136 3224,2021-09-05,Reading,England,wholesale
+CUST-0275,Kenneth,Williams,kenneth.williams9@outlook.com,07962-269-7382,2021-10-06,Manchester,England,premium
+CUST-0276,Ethan,Lopez,ethan.lopez28@outlook.com,+44-7554-618-1408,2020-11-11,Edinburgh,Scotland,premium
+CUST-0277,Kathleen,Flores,kathleen.flores87@icloud.com,07218-104-6095,2020-04-04,Leeds,England,wholesale
+CUST-0278,Donna,Williams,donna.williams26@outlook.com,,2023-06-29,York,England,wholesale
+CUST-0279,Susan,Clark,susan.clark74@outlook.com,+44 7350 275 2167,2020-04-20,Birmingham,England,premium
+CUST-0280,Oliver,Thompson,oliver.thompson79@hotmail.com,+44-7681-234-2522,2021-09-27,Oxford,England,premium
+CUST-0281,Sandra,Lewis,sandra.lewis51@outlook.com,07564-599-1495,2024-09-28,Liverpool,England,premium
+CUST-0282,Brian,Taylor,brian.taylor42@gmail.com,079114099728,2022-02-25,Birmingham,England,premium
+CUST-0283,Anthony,Edwards,anthony.edwards89@icloud.com,+44-7433-668-2599,2022-04-11,Birmingham,England,wholesale
+CUST-0284,Susan,Carter,susan.carter18@yahoo.co.uk,078752503444,2024-12-01,Sheffield,England,premium
+CUST-0285,Jack,Hill,jack.hill12@outlook.com,+44 7696 108 9362,2024-08-07,Nottingham,England,regular
+CUST-0286,Andrew,Brown,andrew.brown92@outlook.com,07778-277-8780,2020-11-11,Newcastle,England,wholesale
+CUST-0287,  Thomas ,Moore,thomas.moore85@hotmail.com,+44-7738-284-8444,2022-07-10,Southampton,England,premium
+CUST-0288,Mark,White,,07520-659-7012,2022-09-13,Birmingham,England,regular
+CUST-0289,Shirley,Scott,shirley.scott32@gmail.com,+44 7583 745 2279,2022-11-15,Cambridge,England,wholesale
+CUST-0290,Kevin,Parker,kevin.parker5@yahoo.co.uk,07162-744-8752,2023-07-02,London,England,premium
+CUST-0291,Alexander,Hernandez,alexander.hernandez17@outlook.com,+44-7705-856-3476,2020-12-25,Cardiff,Wales,wholesale
+CUST-0292,Donald,Peterson,donald.peterson19@gmail.com,079576077765,2024-09-20,Nottingham,England,regular
+CUST-0293,Dorothy,Anderson,dorothy.anderson96@hotmail.com,+44 7870 645 4828,2024-06-20,Oxford,England,premium
+CUST-0294,Kenneth,Garcia,kenneth.garcia79@hotmail.com,+44-7770-698-7408,2024-03-14,Glasgow,Scotland,wholesale
+CUST-0295,Emma,Harris,emma.harris71@outlook.com,07521-200-9605,2021-08-03,Cardiff,Wales,regular
+CUST-0296,John,Brown,john.brown77@yahoo.co.uk,07484-772-4027,2023-09-14,Birmingham,England,wholesale
+CUST-0297,Mason,Scott,mason.scott33@outlook.com,073838952022,2022-10-04,Edinburgh,Scotland,wholesale
+CUST-0298,Oliver,Thompson,oliver.thompson28@hotmail.com,,2022-10-16,Bristol,England,wholesale
+CUST-0299,James,Jones,james.jones74@hotmail.com,+44-7653-331-1054,2024-08-02,Cambridge,England,regular
+CUST-0300,Jack,Rivera,jack.rivera47@gmail.com,+44 7647 973 6571,2023-09-15,Edinburgh,Scotland,premium
+CUST-0301,Deborah,Wilson,deborah.wilson95@hotmail.com,+44-7911-653-6041,2024-09-04,Oxford,England,regular
+CUST-0302,John,Baker,john.baker28@gmail.com,+44-7173-137-3319,2022-08-23,Leicester,England,regular
+CUST-0303,  Ashley ,Taylor,ashley.taylor59@gmail.com,+44-7164-923-4320,2024-09-07,Southampton,England,premium
+CUST-0304,Jessica,Moore,jessica.moore76@gmail.com,+44-7813-478-3703,2023-04-06,Manchester,England,regular
+CUST-0305,Richard,Carter,,071072832460,2023-08-03,Cardiff,Wales,wholesale
+CUST-0306,Laura,Turner,laura.turner24@icloud.com,+44 7834 611 2442,2020-07-14,Leicester,England,premium
+CUST-0307,Anna,Lewis,anna.lewis25@gmail.com,07609-280-3617,2022-06-09,Cardiff,Wales,premium
+CUST-0308,  Noah ,Murphy,noah.murphy21@yahoo.co.uk,+44-7706-693-6340,2023-10-18,Sheffield,England,regular
+CUST-0309,Joseph,Adams,joseph.adams49@yahoo.co.uk,+44-7724-565-3917,2022-07-26,Edinburgh,Scotland,wholesale
+CUST-0310,Amanda,Wright,amanda.wright36@gmail.com,075695283804,2023-02-06,Glasgow,Scotland,regular
+CUST-0311,Ethan,Peterson,ethan.peterson36@hotmail.com,+44 7114 847 8014,2020-03-31,Manchester,England,premium
+CUST-0312,Elijah,Jones,elijah.jones58@gmail.com,07809-849-7662,2020-07-04,London,England,premium
+CUST-0313,Donna,Lee,donna.lee59@gmail.com,+44 7574 890 3271,2023-11-15,Sheffield,England,wholesale
+CUST-0314,John,Nguyen,john.nguyen74@icloud.com,07627-790-6963,2020-03-24,Nottingham,England,premium
+CUST-0315,Daniel,Rodriguez,daniel.rodriguez31@outlook.com,+44-7428-461-5380,2020-05-09,Nottingham,England,premium
+CUST-0316,Laura,Peterson,laura.peterson87@icloud.com,+44 7945 645 5788,2021-01-01,Newcastle,England,regular
+CUST-0317,Susan,Perez,susan.perez67@yahoo.co.uk,07235-585-6680,2020-02-15,Glasgow,Scotland,wholesale
+CUST-0318,Kevin,Turner,kevin.turner76@hotmail.com,07568-411-3161,2022-01-31,Newcastle,England,regular
+CUST-0319,Christopher,Rivera,christopher.rivera92@yahoo.co.uk,+44-7142-424-3072,2021-01-12,Edinburgh,Scotland,wholesale
+CUST-0320,John,Green,john.green69@yahoo.co.uk,07569-427-3556,2021-08-28,Cambridge,England,premium
+CUST-0321,Pamela,Jackson,pamela.jackson89@outlook.com,+44-7732-961-4610,2021-10-30,Manchester,England,wholesale
+CUST-0322,Matthew,Lewis,matthew.lewis69@gmail.com,+44-7157-782-6915,2024-10-14,Brighton,England,premium
+CUST-0323,  Deborah ,Mitchell,deborah.mitchell72@hotmail.com,+44 7189 320 8278,2021-09-13,Cambridge,England,wholesale
+CUST-0324,Kevin,Rodriguez,kevin.rodriguez53@gmail.com,07827-681-3243,2020-03-27,Newcastle,England,wholesale
+CUST-0325,Joshua,Cooper,joshuacooperATgmail.com,,2024-04-15,Cardiff,Wales,premium
+CUST-0326,David,Campbell,david.campbell89@hotmail.com,07965-365-3668,2023-11-20,Bristol,England,premium
+CUST-0327,Charles,Miller,charles.miller7@outlook.com,07298-884-4002,2024-08-20,Newcastle,England,premium
+CUST-0328,George,Gonzalez,george.gonzalez67@yahoo.co.uk,+44 7388 481 8944,2020-06-05,Leeds,England,regular
+CUST-0329,Robert,Morgan,robert.morgan77@hotmail.com,072768265991,2021-03-05,Bristol,England,regular
+CUST-0330,Aiden,Anderson,aiden.anderson26@gmail.com,+44 7210 133 9412,2023-05-17,Edinburgh,Scotland,wholesale
+CUST-0331,Betty,White,,+44 7249 966 5544,2023-03-30,London,England,wholesale
+CUST-0332,Margaret,Harris,margaret.harris93@gmail.com,079718248777,2022-02-16,Brighton,England,regular
+CUST-0333,Angela,Robinson,angela.robinson15@hotmail.com,+44 7632 239 9123,2022-07-24,Leicester,England,wholesale
+CUST-0334,Donna,Stewart,donna.stewart25@hotmail.com,+44-7788-207-7494,2023-10-17,Birmingham,England,regular
+CUST-0335,Christopher,Phillips,christopher.phillips9@yahoo.co.uk,07225-338-7958,2024-06-28,Southampton,England,premium
+CUST-0336,Logan,Evans,logan.evans14@hotmail.com,+44 7225 356 9017,2022-02-22,Leicester,England,wholesale
+CUST-0337,Michelle,Martin,michelle.martin99@icloud.com,+44 7604 911 8635,2020-03-05,Brighton,England,regular
+CUST-0338,Deborah,Morris,deborah.morris23@gmail.com,+44 7670 775 5965,2022-10-01,York,England,wholesale
+CUST-0339,Anna,Rogers,anna.rogers34@hotmail.com,077317926779,2021-12-15,Reading,England,regular
+CUST-0340,Carol,Carter,carol.carter8@outlook.com,07706-186-2073,2023-01-07,Sheffield,England,regular
+CUST-0341,Mason,Collins,mason.collins76@hotmail.com,07686-200-9001,2024-07-19,Sheffield,England,regular
+CUST-0342,Noah,Hill,noah.hill69@gmail.com,07923-331-2506,2023-03-06,Bath,England,premium
+CUST-0343,Aiden,Clark,aiden.clark39@icloud.com,074203047788,2023-07-09,Bath,England,regular
+CUST-0344,Pamela,Cooper,pamela.cooper35@hotmail.com,076798441981,2024-04-16,Newcastle,England,premium
+CUST-0345,Ethan,Green,ethan.green35@hotmail.com,073628034868,2021-09-27,Oxford,England,premium
+CUST-0346,Brenda,Edwards,brenda.edwards18@outlook.com,+44 7129 364 5551,2020-06-20,Sheffield,England,wholesale
+CUST-0347,Joshua,Rodriguez,joshua.rodriguez51@gmail.com,073412149196,2024-05-02,Sheffield,England,premium
+CUST-0348,Owen,Roberts,owen.roberts19@yahoo.co.uk,+44 7209 279 4507,2022-05-17,Cambridge,England,wholesale
+CUST-0349,Ashley,Scott,ashley.scott40@outlook.com,07807-907-4926,2023-12-05,Nottingham,England,wholesale
+CUST-0350,Jessica,Walker,jessica.walker33@hotmail.com,+44 7408 192 4857,2020-06-13,Cambridge,England,premium
+CUST-0351,Ethan,Nelson,ethan.nelson90@yahoo.co.uk,074605309973,2024-06-08,Bristol,England,regular
+CUST-0352,Stephanie,Sanchez,stephanie.sanchez32@yahoo.co.uk,07911-427-8397,2023-04-29,Sheffield,England,premium
+CUST-0353,Betty,Hernandez,betty.hernandez29@icloud.com,07368-818-3764,2022-01-23,Liverpool,England,wholesale
+CUST-0354,Jessica,Johnson,jessica.johnson87@hotmail.com,+44-7394-864-9096,2024-10-19,Edinburgh,Scotland,wholesale
+CUST-0355,Margaret,Torres,margaret.torres4@yahoo.co.uk,077325615068,2023-11-20,Southampton,England,wholesale
+CUST-0356,Margaret,Roberts,margaret.roberts72@gmail.com,+44-7105-359-9266,2022-03-19,Nottingham,England,regular
+CUST-0357,Brenda,Garcia,brenda.garcia60@outlook.com,+44-7420-145-3095,2024-09-05,Cardiff,Wales,wholesale
+CUST-0358,George,Edwards,george.edwards67@outlook.com,+44 7420 546 3703,2020-03-14,Cambridge,England,premium
+CUST-0359,Charles,Cook,charles.cook57@gmail.com,075686042843,2021-01-04,Liverpool,England,wholesale
+CUST-0360,Angela,Wright,angela.wright68@gmail.com,+44 7885 684 3958,2023-04-24,Leeds,England,premium
+CUST-0361,Karen,Brown,karen.brown81@hotmail.com,07432-849-3118,2020-04-23,Birmingham,England,wholesale
+CUST-0362,Nicole,Carter,nicole.carter12@hotmail.com,+44-7223-405-9042,2021-09-27,Leicester,England,regular
+CUST-0363,Amanda,Gonzalez,amanda.gonzalez61@hotmail.com,+44 7374 676 7931,2021-11-30,Oxford,England,wholesale
+CUST-0364,Mark,Martin,mark.martin38@gmail.com,+44-7961-354-9570,2020-04-07,York,England,regular
+CUST-0365,Jennifer,Wilson,jennifer.wilson33@icloud.com,+44-7283-905-3985,2022-05-02,Newcastle,England,premium
+CUST-0366,Emma,Murphy,emma.murphy24@outlook.com,+44 7316 289 2281,2020-01-28,Liverpool,England,wholesale
+CUST-0367,Kathleen,Murphy,kathleen.murphy93@icloud.com,078077897471,2020-02-02,Edinburgh,Scotland,regular
+CUST-0368,Anthony,Morgan,anthony.morgan25@icloud.com,+44-7256-856-8295,2024-10-26,Oxford,England,wholesale
+CUST-0369,Ashley,Sanchez,ashley.sanchez2@outlook.com,+44-7137-599-7548,2024-01-24,Leicester,England,wholesale
+CUST-0370,Alexander,Robinson,alexander.robinson71@outlook.com,+44 7165 374 7834,2024-01-27,Edinburgh,Scotland,premium
+CUST-0371,Brian,Stewart,brian.stewart78@outlook.com,072344007395,2024-03-14,Birmingham,England,wholesale
+CUST-0372,Kathleen,Taylor,kathleen.taylor64@hotmail.com,+44 7410 340 4431,2021-11-22,Brighton,England,regular
+CUST-0373,Helen,Robinson,helen.robinson46@outlook.com,+44-7823-151-8173,2024-03-27,Leeds,England,regular
+CUST-0374,Noah,Wilson,,+44-7825-552-9288,2020-07-22,Bristol,England,wholesale
+CUST-0375,George,Nelson,george.nelson99@hotmail.com,07449-393-9274,2022-04-29,Nottingham,England,wholesale
+CUST-0376,Ashley,Martin,ashley.martin55@yahoo.co.uk,+44 7523 519 8516,2021-10-06,Southampton,England,regular
+CUST-0377,Sharon,Davis,,07402-529-7586,2020-01-17,Cardiff,Wales,wholesale
+CUST-0378,Noah,Jackson,noah.jackson80@icloud.com,07894-302-5940,2024-01-12,Bristol,England,wholesale
+CUST-0379,Anna,Torres,anna.torres97@outlook.com,+44-7952-892-5979,2020-08-14,Manchester,England,premium
+CUST-0380,Dorothy,Rivera,dorothy.rivera39@hotmail.com,07924-863-9737,2023-09-27,Reading,England,wholesale
+CUST-0381,Sarah,Carter,sarah.carter25@icloud.com,+44-7183-194-2018,2022-09-02,Edinburgh,Scotland,premium
+CUST-0382,Elizabeth,Mitchell,elizabeth.mitchell34@hotmail.com,+44-7247-617-3082,2020-09-21,Bath,England,wholesale
+CUST-0383,Jessica,Ramirez,,072217167694,2021-09-16,Nottingham,England,premium
+CUST-0384,  Emily ,Peterson,emily.peterson7@hotmail.com,+44-7457-169-1732,2021-09-26,Reading,England,premium
+CUST-0385,Carol,Carter,carol.carter65@yahoo.co.uk,+44-7191-919-7711,2022-03-20,Sheffield,England,wholesale
+CUST-0386,Jennifer,Stewart,jennifer.stewart74@gmail.com,+44 7745 915 6060,2022-12-04,Edinburgh,Scotland,premium
+CUST-0387,Elijah,Williams,elijah.williams36@gmail.com,+44 7905 310 5018,2020-02-17,Sheffield,England,premium
+CUST-0388,  Nancy ,Parker,nancy.parker15@gmail.com,073922473992,2021-10-28,Liverpool,England,regular
+CUST-0389,Linda,Hill,linda.hill34@outlook.com,+44-7604-620-9264,2021-07-05,Manchester,England,premium
+CUST-0390,Cynthia,Turner,,+44-7411-681-7664,2023-07-26,Bath,England,regular
+CUST-0391,Christopher,Mitchell,christopher.mitchell72@hotmail.com,07768-271-1008,2022-02-17,Nottingham,England,wholesale
+CUST-0392,  Margaret ,Torres,margaret.torres12@outlook.com,07999-542-4454,2024-03-21,Oxford,England,premium
+CUST-0393,Ashley,Adams,ashley.adams89@gmail.com,+44-7523-669-9011,2024-05-31,Birmingham,England,wholesale
+CUST-0394,Patricia,Stewart,patricia.stewart46@icloud.com,07297-555-1153,2023-12-23,Nottingham,England,regular
+CUST-0395,Barbara,Hill,barbara.hill5@outlook.com,071073007489,2023-09-13,Reading,England,wholesale
+CUST-0396,Nicole,Thompson,nicole.thompson73@outlook.com,07296-968-1378,2024-12-13,Oxford,England,regular
+CUST-0397,Aiden,Miller,aiden.miller36@hotmail.com,07629-877-1712,2022-12-26,Oxford,England,premium
+CUST-0398,James,Phillips,james.phillips95@gmail.com,+44 7331 806 7943,2024-07-12,London,England,wholesale
+CUST-0399,Kevin,Allen,kevin.allen43@gmail.com,+44 7632 913 4878,2022-02-11,Sheffield,England,wholesale
+CUST-0400,David,Taylor,david.taylor81@icloud.com,077931571855,2024-05-31,Leicester,England,regular
+CUST-0401,Mason,Roberts,mason.roberts44@gmail.com,075646296377,2020-09-15,Bath,England,premium
+CUST-0402,Amanda,Parker,amanda.parker6@yahoo.co.uk,076985469407,2021-09-24,Leicester,England,premium
+CUST-0403,Emily,Mitchell,emily.mitchell8@yahoo.co.uk,075324524201,2023-11-23,Oxford,England,wholesale
+CUST-0404,Kevin,Nelson,kevin.nelson6@hotmail.com,+44-7344-592-6431,2021-01-12,London,England,premium
+CUST-0405,Mary,Martinez,mary.martinez25@hotmail.com,07302-390-3853,2021-05-18,Liverpool,England,regular
+CUST-0406,Robert,Thompson,robertthompsonATgmail.com,07446-315-5998,2022-12-15,Leicester,England,premium
+CUST-0407,David,Thomas,david.thomas69@yahoo.co.uk,07751-350-1756,2021-11-02,Glasgow,Scotland,regular
+CUST-0408,Kimberly,Taylor,kimberly.taylor94@yahoo.co.uk,07271-620-7358,2022-08-08,Liverpool,England,premium
+CUST-0409,Melissa,Morgan,melissa.morgan82@hotmail.com,+44-7505-323-6013,2023-03-16,Liverpool,England,premium
+CUST-0410,Steven,Hernandez,steven.hernandez30@outlook.com,+44-7542-518-7021,2022-02-22,London,England,regular
+CUST-0411,Lucas,Robinson,lucas.robinson65@outlook.com,079043834731,2023-10-14,Sheffield,England,premium
+CUST-0412,Joshua,Scott,joshua.scott34@icloud.com,+44-7941-693-1194,2024-04-07,Bristol,England,premium
+CUST-0413,Sandra,Robinson,sandra.robinson71@icloud.com,074489102406,2024-10-12,York,England,regular
+CUST-0414,Melissa,Moore,melissa.moore64@gmail.com,07535-802-7608,2020-02-17,Reading,England,regular
+CUST-0415,Sarah,Martin,sarah.martin78@icloud.com,07165-647-7331,2022-07-13,Newcastle,England,regular
+CUST-0416,Lisa,Wilson,lisa.wilson63@icloud.com,+44-7775-636-2146,2022-11-27,London,England,regular
+CUST-0417,Michelle,Turner,michelle.turner62@hotmail.com,079863113128,2021-09-27,Reading,England,regular
+CUST-0418,Elijah,Murphy,,+44 7246 556 2048,2024-12-09,Oxford,England,premium
+CUST-0419,Joshua,Phillips,joshua.phillips23@yahoo.co.uk,075684934005,2020-11-19,Cardiff,Wales,wholesale
+CUST-0420,Henry,Nguyen,henry.nguyen64@yahoo.co.uk,07616-884-6341,2020-04-01,Oxford,England,regular
+CUST-0421,Elizabeth,Cook,elizabeth.cook5@hotmail.com,+44 7110 356 2878,2021-05-11,Oxford,England,regular
+CUST-0422,Logan,Scott,loganscottATgmail.com,+44-7793-379-3514,2021-03-19,Manchester,England,wholesale
+CUST-0423,Henry,Ramirez,,+44 7750 930 9566,2024-04-20,Edinburgh,Scotland,regular
+CUST-0424,Melissa,Walker,,+44-7841-271-1721,2024-07-28,Sheffield,England,premium
+CUST-0425,Brenda,Harris,brenda.harris16@hotmail.com,+44-7112-498-4485,2023-09-09,Cardiff,Wales,wholesale
+CUST-0426,  Helen ,Mitchell,helen.mitchell64@icloud.com,079109703809,2023-07-25,Sheffield,England,wholesale
+CUST-0427,Kathleen,Rodriguez,kathleen.rodriguez66@hotmail.com,076157011217,2020-05-02,Bristol,England,premium
+CUST-0428,Amy,Nguyen,amy.nguyen93@yahoo.co.uk,07759-905-1648,2021-04-14,Sheffield,England,premium
+CUST-0429,Ashley,Clark,ashley.clark88@yahoo.co.uk,+44 7812 836 4644,2020-05-23,Edinburgh,Scotland,regular
+CUST-0430,Christopher,Clark,christopher.clark31@yahoo.co.uk,078425786103,2023-03-26,Oxford,England,wholesale
+CUST-0431,Betty,Wright,betty.wright51@outlook.com,+44 7486 271 8712,2022-05-25,Birmingham,England,premium
+CUST-0432,Liam,Martin,liam.martin59@outlook.com,+44 7390 484 8878,2024-02-04,Nottingham,England,premium
+CUST-0433,Stephanie,Parker,stephanie.parker40@hotmail.com,07494-679-3660,2024-03-19,Nottingham,England,wholesale
+CUST-0434,Alexander,Mitchell,alexander.mitchell32@yahoo.co.uk,077468231462,2023-05-18,Reading,England,wholesale
+CUST-0435,Charles,Johnson,charles.johnson51@hotmail.com,+44-7358-808-5951,2024-02-12,Brighton,England,wholesale
+CUST-0436,Barbara,Wilson,barbara.wilson35@yahoo.co.uk,+44-7101-199-2144,2023-09-02,Newcastle,England,wholesale
+CUST-0437,Sharon,Perez,sharon.perez24@hotmail.com,07290-305-1966,2024-11-20,Brighton,England,premium
+CUST-0438,Helen,Wilson,helen.wilson16@hotmail.com,+44 7383 165 6605,2024-06-04,Manchester,England,regular
+CUST-0439,Margaret,Smith,margaret.smith63@outlook.com,07479-798-6620,2022-02-14,Leicester,England,regular
+CUST-0440,Amanda,Nelson,,078429553275,2023-06-20,Cambridge,England,wholesale
+CUST-0441,  Ethan ,Harris,ethan.harris3@outlook.com,+44 7748 468 1749,2022-09-02,Leeds,England,wholesale
+CUST-0442,Deborah,Nguyen,deborah.nguyen92@icloud.com,+44-7995-578-3753,2022-09-14,York,England,regular
+CUST-0443,Ashley,Ramirez,ashley.ramirez56@gmail.com,074344925593,2023-07-21,Cambridge,England,regular
+CUST-0444,Kevin,Lewis,kevin.lewis49@outlook.com,+44 7834 860 7252,2021-11-27,Reading,England,regular
+CUST-0445,Joseph,Mitchell,joseph.mitchell40@gmail.com,072949677359,2020-01-19,York,England,premium
+CUST-0446,Kenneth,Jackson,kenneth.jackson19@hotmail.com,07713-427-6060,2023-12-17,Reading,England,premium
+CUST-0447,Margaret,Cooper,margaret.cooper20@outlook.com,+44-7986-894-3933,2021-09-04,Liverpool,England,regular
+CUST-0448,Sebastian,Phillips,sebastian.phillips51@hotmail.com,07817-976-9978,2023-04-03,Manchester,England,wholesale
+CUST-0449,Joshua,Murphy,joshua.murphy38@hotmail.com,079238664205,2022-05-24,Liverpool,England,regular
+CUST-0450,Richard,Rivera,richard.rivera84@icloud.com,07350-134-2946,2020-12-19,Southampton,England,wholesale
+CUST-0451,Barbara,Cook,barbara.cook48@hotmail.com,07756-784-9351,2020-07-12,Reading,England,regular
+CUST-0452,Deborah,Morgan,deborah.morgan13@yahoo.co.uk,+44-7902-931-9684,2024-09-10,Reading,England,wholesale
+CUST-0453,Jessica,Clark,jessica.clark89@icloud.com,07140-231-4378,2020-03-12,Birmingham,England,regular
+CUST-0454,Elijah,Hill,elijah.hill32@gmail.com,07555-243-9035,2022-11-11,Edinburgh,Scotland,wholesale
+CUST-0455,Richard,Garcia,richard.garcia18@yahoo.co.uk,07231-846-7914,2020-11-30,Southampton,England,premium
+CUST-0456,William,Allen,william.allen10@yahoo.co.uk,077488134156,2024-06-01,Brighton,England,premium
+CUST-0457,Patricia,Young,patricia.young53@icloud.com,+44-7380-110-2604,2021-03-31,Southampton,England,regular
+CUST-0458,Jessica,Thompson,jessica.thompson13@hotmail.com,07149-274-6210,2023-10-20,York,England,wholesale
+CUST-0459,Liam,Evans,liamevansATgmail.com,077732293337,2022-05-06,Oxford,England,regular
+CUST-0460,Lucas,Rivera,lucas.rivera67@hotmail.com,+44 7835 933 4748,2020-07-10,Liverpool,England,wholesale
+CUST-0461,Linda,Hernandez,linda.hernandez55@gmail.com,+44 7793 620 3235,2024-08-29,London,England,wholesale
+CUST-0462,Aiden,Hall,aiden.hall88@icloud.com,07330-279-2230,2022-05-15,Cambridge,England,premium
+CUST-0463,Lisa,Mitchell,lisa.mitchell99@icloud.com,074065945809,2023-08-09,Bath,England,regular
+CUST-0464,Cynthia,Peterson,,+44 7571 436 5888,2021-02-08,Birmingham,England,wholesale
+CUST-0465,Angela,Martin,angelamartinATgmail.com,07483-406-6971,2022-06-17,Oxford,England,regular
+CUST-0466,Sarah,Rivera,,+44 7991 826 4251,2021-02-11,Cambridge,England,wholesale
+CUST-0467,Paul,Thomas,paul.thomas42@yahoo.co.uk,076138437370,2020-01-28,Glasgow,Scotland,regular
+CUST-0468,Carol,Collins,carol.collins37@outlook.com,07846-623-4061,2021-05-21,Brighton,England,regular
+CUST-0469,Logan,Wilson,logan.wilson81@icloud.com,072232357574,2020-04-14,Southampton,England,premium
+CUST-0470,Shirley,Flores,shirley.flores62@hotmail.com,077591525985,2020-04-07,Liverpool,England,regular
+CUST-0471,James,Miller,james.miller78@outlook.com,073586036956,2024-02-27,Nottingham,England,wholesale
+CUST-0472,Emma,Mitchell,emma.mitchell14@gmail.com,07297-821-8303,2022-08-29,Edinburgh,Scotland,wholesale
+CUST-0473,Karen,Garcia,karen.garcia45@icloud.com,07529-636-9255,2020-09-21,Newcastle,England,regular
+CUST-0474,Jack,Davis,jack.davis64@hotmail.com,+44-7675-898-7393,2021-02-27,Liverpool,England,regular
+CUST-0475,Charles,Ramirez,,+44 7909 625 8461,2020-04-03,York,England,regular
+CUST-0476,Emily,Garcia,emily.garcia35@yahoo.co.uk,07647-218-1022,2023-12-15,York,England,premium
+CUST-0477,Sarah,Turner,sarah.turner46@gmail.com,07650-773-2743,2023-07-23,Leicester,England,wholesale
+CUST-0478,Anthony,Stewart,anthony.stewart20@hotmail.com,074772518848,2024-02-02,Liverpool,England,wholesale
+CUST-0479,Andrew,Williams,andrew.williams25@icloud.com,+44 7171 246 2180,2022-02-12,Southampton,England,regular
+CUST-0480,Joseph,Johnson,joseph.johnson99@yahoo.co.uk,+44 7185 374 3336,2022-09-10,Reading,England,premium
+CUST-0481,Charles,Flores,charles.flores81@outlook.com,,2021-04-04,London,England,regular
+CUST-0482,Aiden,Roberts,aiden.roberts88@hotmail.com,+44 7832 942 2841,2020-06-22,Manchester,England,wholesale
+CUST-0483,Karen,Thompson,karen.thompson20@hotmail.com,07456-996-2702,2023-12-27,Birmingham,England,regular
+CUST-0484,Karen,Jackson,karen.jackson9@hotmail.com,07192-430-3089,2022-05-18,Cambridge,England,wholesale
+CUST-0485,Ethan,Nelson,ethan.nelson54@hotmail.com,076466049724,2021-04-26,Nottingham,England,regular
+CUST-0486,Anthony,Williams,anthony.williams8@gmail.com,+44 7457 469 3283,2020-08-28,Bristol,England,premium
+CUST-0487,Patricia,Collins,patricia.collins62@gmail.com,071302506984,2022-08-20,Bristol,England,wholesale
+CUST-0488,Shirley,Hill,shirley.hill37@gmail.com,+44-7505-952-7940,2024-08-25,Cardiff,Wales,wholesale
+CUST-0489,Elijah,Flores,elijah.flores67@gmail.com,+44-7942-863-2264,2023-08-29,Southampton,England,premium
+CUST-0490,Lisa,Miller,lisa.miller14@gmail.com,07266-654-2744,2021-02-17,Manchester,England,regular
+CUST-0491,Paul,Hernandez,paul.hernandez6@hotmail.com,+44-7612-299-6152,2020-09-22,Leeds,England,premium
+CUST-0492,Ethan,Gonzalez,ethangonzalezATgmail.com,+44 7915 491 8814,2021-04-19,Edinburgh,Scotland,wholesale
+CUST-0493,Christopher,Lee,christopher.lee84@icloud.com,+44 7635 887 6593,2024-05-04,Southampton,England,regular
+CUST-0494,Anthony,Martinez,anthony.martinez2@gmail.com,076609882428,2023-03-26,Nottingham,England,premium
+CUST-0495,Barbara,Martinez,barbara.martinez33@hotmail.com,+44-7472-979-5696,2023-06-23,Bristol,England,premium
+CUST-0496,George,Green,george.green88@outlook.com,07816-940-1130,2023-03-13,Southampton,England,regular
+CUST-0497,Mark,Roberts,mark.roberts83@hotmail.com,+44-7886-543-4268,2021-10-11,Sheffield,England,wholesale
+CUST-0498,Alexander,Ramirez,alexander.ramirez70@gmail.com,+44-7163-927-6922,2021-03-13,Manchester,England,regular
+CUST-0499,Robert,Collins,robert.collins36@gmail.com,079948298396,2020-07-08,Brighton,England,premium
+CUST-0500,Joshua,Perez,joshua.perez89@icloud.com,07942-110-4253,2024-08-13,Sheffield,England,regular
+CUST-0003,Robert,Williams,r.williams@gmail.com,07456789012,2021-05-15,London,England,premium

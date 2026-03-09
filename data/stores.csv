@@ -1,0 +1,13 @@
+store_id,store_name,store_type,city,region,opened_date
+STR-001,London Flagship,physical,London,England,2018-03-15
+STR-002,Manchester Central,physical,Manchester,England,2019-06-01
+STR-003,Birmingham Mall,physical,Birmingham,England,2019-11-20
+STR-004,Edinburgh Royal Mile,physical,Edinburgh,Scotland,2020-02-10
+STR-005,Bristol Harbourside,physical,Bristol,England,2020-08-05
+STR-006,Leeds Trinity,physical,Leeds,England,2021-01-12
+STR-007,Liverpool One,physical,Liverpool,England,2021-07-22
+STR-008,Cardiff Bay,physical,Cardiff,Wales,2022-03-18
+STR-009,Online Store,online,N/A,N/A,2017-01-01
+STR-010,Glasgow Buchanan,physical,Glasgow,Scotland,2022-09-30
+STR-011,Newcastle Eldon,physical,Newcastle,England,2023-04-14
+STR-012,Southampton Westquay,physical,Southampton,England,2026-06-01

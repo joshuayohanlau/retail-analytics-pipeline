@@ -1,0 +1,93 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Cleaned customer records. Deduplicated, trimmed, emails validated, nulls handled."
+    columns:
+      - name: customer_id
+        description: "Unique customer identifier"
+        tests:
+          - unique
+          - not_null
+      - name: email
+        description: "Validated and lowercased email (null if malformed or missing)"
+      - name: customer_type
+        description: "Standardised account type: regular, premium, wholesale"
+
+  - name: stg_products
+    description: "Cleaned product catalogue. Categories standardised, negative prices excluded."
+    columns:
+      - name: product_id
+        description: "Unique product identifier"
+        tests:
+          - unique
+          - not_null
+      - name: unit_price
+        description: "Product price in GBP (positive values only)"
+      - name: category
+        description: "Standardised category name"
+
+  - name: stg_stores
+    description: "Cleaned store data with future store flag."
+    columns:
+      - name: store_id
+        description: "Unique store identifier"
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_orders
+    description: "Cleaned orders. Deduplicated, future dates excluded, null statuses mapped to unknown."
+    columns:
+      - name: order_id
+        description: "Unique order identifier"
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        description: "FK to stg_customers"
+      - name: store_id
+        description: "FK to stg_stores"
+        tests:
+          - relationships:
+              to: ref('stg_stores')
+              field: store_id
+
+  - name: stg_order_items
+    description: "Cleaned order line items. Zero quantities and negative discounts handled."
+    columns:
+      - name: order_item_id
+        description: "Unique line item identifier"
+        tests:
+          - unique
+          - not_null
+      - name: order_id
+        description: "FK to stg_orders"
+
+  - name: stg_payments
+    description: "Cleaned payment records. Deduplicated, junk methods mapped to other."
+    columns:
+      - name: payment_id
+        description: "Unique payment identifier"
+        tests:
+          - unique
+          - not_null
+      - name: order_id
+        description: "FK to stg_orders"
+
+  - name: stg_inventory
+    description: "Cleaned inventory. Negative stock zeroed, mixed date formats parsed."
+    columns:
+      - name: inventory_id
+        description: "Unique inventory record identifier"
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_web_activity
+    description: "Cleaned web events. Bot traffic excluded, impossible timestamps filtered."
+    columns:
+      - name: session_id
+        description: "Unique session identifier"
+        tests:
+          - not_null

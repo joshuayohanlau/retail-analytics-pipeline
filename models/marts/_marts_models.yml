@@ -1,0 +1,101 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "Customer dimension enriched with order stats and lifetime spend."
+    columns:
+      - name: customer_id
+        description: "Unique customer identifier"
+        tests:
+          - unique
+          - not_null
+      - name: total_orders
+        description: "Number of orders placed by this customer"
+      - name: lifetime_spend
+        description: "Total spend across all orders in GBP"
+      - name: purchase_segment
+        description: "Segment: never_purchased, one_time, or repeat"
+
+  - name: dim_products
+    description: "Product dimension with standardised categories and price tier."
+    columns:
+      - name: product_id
+        description: "Unique product identifier"
+        tests:
+          - unique
+          - not_null
+      - name: category
+        description: "Standardised product category"
+        tests:
+          - not_null
+      - name: price_tier
+        description: "Price bracket: budget, mid_range, premium, luxury"
+
+  - name: dim_stores
+    description: "Store dimension including online channel."
+    columns:
+      - name: store_id
+        description: "Unique store identifier"
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_dates
+    description: "Date dimension covering 2020-2026 with day, week, month, quarter, year attributes."
+    columns:
+      - name: date_key
+        description: "Date primary key"
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_order_items
+    description: "Fact table at order line item grain. One row per product per order."
+    columns:
+      - name: order_item_id
+        description: "Unique line item identifier"
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        description: "FK to dim_customers"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_customers')
+              field: customer_id
+      - name: product_id
+        description: "FK to dim_products"
+        tests:
+          - relationships:
+              to: ref('dim_products')
+              field: product_id
+      - name: store_id
+        description: "FK to dim_stores"
+        tests:
+          - relationships:
+              to: ref('dim_stores')
+              field: store_id
+      - name: order_date
+        description: "FK to dim_dates"
+      - name: line_total
+        description: "Revenue for this line item after discount"
+        tests:
+          - not_null
+
+  - name: fct_payments
+    description: "Fact table at payment transaction grain."
+    columns:
+      - name: payment_id
+        description: "Unique payment identifier"
+        tests:
+          - unique
+          - not_null
+      - name: order_id
+        description: "FK to orders"
+        tests:
+          - not_null
+      - name: amount
+        description: "Payment amount in GBP"
+        tests:
+          - not_null

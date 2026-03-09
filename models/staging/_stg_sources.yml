@@ -1,0 +1,144 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    description: "Raw data loaded from CSV files into PostgreSQL"
+    tables:
+      - name: customers
+        description: "Customer master data"
+        columns:
+          - name: customer_id
+            description: "Unique customer identifier"
+          - name: first_name
+            description: "Customer first name"
+          - name: last_name
+            description: "Customer last name"
+          - name: email
+            description: "Customer email address"
+          - name: phone
+            description: "Customer phone number"
+          - name: signup_date
+            description: "Date customer created their account"
+          - name: city
+            description: "Customer city"
+          - name: region
+            description: "Customer region (England, Scotland, Wales)"
+          - name: customer_type
+            description: "Account type: regular, premium, or wholesale"
+
+      - name: products
+        description: "Product catalogue"
+        columns:
+          - name: product_id
+            description: "Unique product identifier"
+          - name: product_name
+            description: "Product display name"
+          - name: category
+            description: "Top-level product category"
+          - name: subcategory
+            description: "Product subcategory"
+          - name: unit_price
+            description: "Standard unit price in GBP"
+          - name: supplier
+            description: "Supplier company name"
+
+      - name: stores
+        description: "Store locations including online channel"
+        columns:
+          - name: store_id
+            description: "Unique store identifier"
+          - name: store_name
+            description: "Store display name"
+          - name: store_type
+            description: "physical or online"
+          - name: city
+            description: "Store city"
+          - name: region
+            description: "Store region"
+          - name: opened_date
+            description: "Date the store opened"
+
+      - name: orders
+        description: "Order header records"
+        columns:
+          - name: order_id
+            description: "Unique order identifier"
+          - name: customer_id
+            description: "FK to customers"
+          - name: store_id
+            description: "FK to stores"
+          - name: order_date
+            description: "Date the order was placed"
+          - name: status
+            description: "Order status: completed, shipped, processing, cancelled, refunded"
+          - name: shipping_method
+            description: "Shipping method selected"
+
+      - name: order_items
+        description: "Line-level order detail"
+        columns:
+          - name: order_item_id
+            description: "Unique line item identifier"
+          - name: order_id
+            description: "FK to orders"
+          - name: product_id
+            description: "FK to products"
+          - name: quantity
+            description: "Number of units ordered"
+          - name: unit_price
+            description: "Price per unit at time of order"
+          - name: discount_pct
+            description: "Discount percentage applied"
+
+      - name: payments
+        description: "Payment transactions"
+        columns:
+          - name: payment_id
+            description: "Unique payment identifier"
+          - name: order_id
+            description: "FK to orders"
+          - name: payment_method
+            description: "Payment method used"
+          - name: payment_date
+            description: "Date payment was processed"
+          - name: amount
+            description: "Payment amount in GBP"
+          - name: payment_status
+            description: "Payment processing status"
+
+      - name: inventory
+        description: "Stock levels by product and store"
+        columns:
+          - name: inventory_id
+            description: "Unique inventory record identifier"
+          - name: product_id
+            description: "FK to products"
+          - name: store_id
+            description: "FK to stores"
+          - name: quantity_on_hand
+            description: "Current stock level"
+          - name: reorder_point
+            description: "Stock threshold for reordering"
+          - name: last_restocked
+            description: "Date of last restock"
+
+      - name: web_activity
+        description: "Website session events"
+        columns:
+          - name: session_id
+            description: "Unique session identifier"
+          - name: customer_id
+            description: "FK to customers (null for anonymous)"
+          - name: page_url
+            description: "Page visited"
+          - name: event_type
+            description: "Type of interaction"
+          - name: event_timestamp
+            description: "Timestamp of the event"
+          - name: device_type
+            description: "Device used"
+          - name: browser
+            description: "Browser used"
+          - name: referrer_source
+            description: "Traffic source"

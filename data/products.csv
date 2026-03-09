@@ -1,0 +1,151 @@
+product_id,product_name,category,subcategory,unit_price,supplier
+PROD-0001,Eco Organic Sock,clothing,Socks,31.58,KappaSource
+PROD-0002,Eco Leather Charger,electronics,Chargers,111.88,ThetaImports
+PROD-0003,Pro Organic Swimming,Sport,Swimming,69.24,AlphaSupply
+PROD-0004,Deluxe Wireless Decor,Home & Garden,Decor,254.02,IotaMfg
+PROD-0005,Basic Silk Biography,books,Biography,24.15,GammaTrade
+PROD-0006,Essential Silk Biography,books,Biography,31.76,ThetaImports
+PROD-0007,Classic Cotton Lighting,Home & Garden,Lighting,326.9,IotaMfg
+PROD-0008,Smart Leather Football,Sport,Football,243.3,DeltaWholesale
+PROD-0009,Classic Digital Sock,CLOTHING,Socks,172.7,IotaMfg
+PROD-0010,Basic Digital Biography,Books,Biography,27.83,EpsilonDist
+PROD-0011,Ultra Steel Children,Books,Children,5.69,KappaSource
+PROD-0012,Essential Leather Tenni,SPORTS,Tennis,297.9,DeltaWholesale
+PROD-0013,Compact Recycled Boxing,Sports,Boxing,45.62,GammaTrade
+PROD-0014,Essential Recycled Cookbook,BOOKS,Cookbooks,15.38,BetaGoods
+PROD-0015,Smart Wooden Boxing,SPORTS,Boxing,285.01,ThetaImports
+PROD-0016,Compact Silk Tablet,Electronics,Tablets,921.85,GammaTrade
+PROD-0017,Pro Digital Cookbook,Books,Cookbooks,18.35,ThetaImports
+PROD-0018,Classic Wooden Furniture,home & garden,Furniture,315.94,BetaGoods
+PROD-0019,Classic Wooden Charger,Electronics,Chargers,293.93,IotaMfg
+PROD-0020,Classic Titanium Bedding,Home&Garden,Bedding,398.94,BetaGoods
+PROD-0021,Basic Titanium Scarve,,Scarves,163.61,GammaTrade
+PROD-0022,Basic Organic Running,Sports,Running,149.29,GammaTrade
+PROD-0023,Pro Leather Yoga,Sports,Yoga,-16.62,GammaTrade
+PROD-0024,Pro Steel Hat,Clothing,Hats,72.22,GammaTrade
+PROD-0025,Pro Cotton Garden Tool,Home&Garden,Garden Tools,178.18,IotaMfg
+PROD-0026,Deluxe Wooden Biography,Books,Biography,13.89,ThetaImports
+PROD-0027,Pro Titanium Smart Watche,electronics,Smart Watches,442.53,EpsilonDist
+PROD-0028,Ultra Digital Lighting,Home&Garden,Lighting,286.16,BetaGoods
+PROD-0029,Smart Wireless Academic,Books,Academic,31.4,KappaSource
+PROD-0030,Classic Wooden Storage,Home & Garden,Storage,405.66,DeltaWholesale
+PROD-0031,Basic Wooden Headphone,ELECTRONICS,Headphones,783.03,AlphaSupply
+PROD-0032,Compact Organic Bedding,Home&Garden,Bedding,449.97,LambdaVendor
+PROD-0033,Smart Wireless Jacket,Clothing,Jackets,146.08,BetaGoods
+PROD-0034,Basic Organic Boxing,Sport,Boxing,65.85,AlphaSupply
+PROD-0035,Classic Titanium Storage,Home & Garden,Storage,90.53,LambdaVendor
+PROD-0036,Compact Steel Smart Watche,Electronics,Smart Watches,913.05,ThetaImports
+PROD-0037,Premium Cotton Smartphone,ELECTRONICS,Smartphones,478.37,EpsilonDist
+PROD-0038,Ultra Cotton Decor,home & garden,Decor,280.88,ThetaImports
+PROD-0039,Classic Organic Cleaning,Home&Garden,Cleaning,469.22,AlphaSupply
+PROD-0040,Ultra Digital Jean,Apparel,Jeans,42.33,ZetaProducts
+PROD-0041,Deluxe Steel Running,Sports,Running,40.34,ZetaProducts
+PROD-0042,Essential Wooden Boxing,SPORTS,Boxing,178.36,GammaTrade
+PROD-0043,Classic Silk Boxing,Sport,Boxing,162.05,EpsilonDist
+PROD-0044,Classic Wireless Cleaning,Home and Garden,Cleaning,384.49,DeltaWholesale
+PROD-0045,Eco Steel Jean,Clothing,Jeans,50.36,ThetaImports
+PROD-0046,Basic Digital Sock,Clothing,Socks,164.65,ZetaProducts
+PROD-0047,Smart Cotton Cleaning,Home and Garden,Cleaning,457.57,IotaMfg
+PROD-0048,Pro Cotton Cycling,Sport,Cycling,89.12,LambdaVendor
+PROD-0049,Classic Cotton Tablet,Electornics,Tablets,252.7,AlphaSupply
+PROD-0050,Deluxe Cotton Self-Help,books,Self-Help,46.7,GammaTrade
+PROD-0051,Basic Steel Biography,BOOKS,Biography,24.85,ThetaImports
+PROD-0052,Pro Recycled Children,books,Children,12.94,KappaSource
+PROD-0053,Premium Digital Non-Fiction,BOOKS,Non-Fiction,48.14,AlphaSupply
+PROD-0054,Classic Silk Yoga,sports,Yoga,37.49,ThetaImports
+PROD-0055,Pro Wireless Biography,Books,Biography,27.27,EpsilonDist
+PROD-0056,Classic Wooden Yoga,Sports,Yoga,154.94,EpsilonDist
+PROD-0057,Classic Wooden Dresse,Apparel,Dresses,45.59,AlphaSupply
+PROD-0058,Premium Wooden Biography,books,Biography,48.84,AlphaSupply
+PROD-0059,Compact Steel Tenni,Sport,Tennis,150.58,AlphaSupply
+PROD-0060,Smart Silk Yoga,sports,Yoga,56.84,EpsilonDist
+PROD-0061,Basic Silk Cleaning,Home&Garden,Cleaning,133.12,AlphaSupply
+PROD-0062,Smart Leather Garden Tool,home & garden,Garden Tools,245.26,AlphaSupply
+PROD-0063,Essential Organic Scarve,clothing,Scarves,104.58,ThetaImports
+PROD-0064,Pro Recycled Bedding,Home & Garden,Bedding,321.52,KappaSource
+PROD-0065,Basic Organic Academic,books,Academic,22.59,EpsilonDist
+PROD-0066,Compact Cotton T-Shirt,Apparel,T-Shirts,92.35,ZetaProducts
+PROD-0067,Eco Wooden Lighting,Home & Garden,Lighting,236.35,LambdaVendor
+PROD-0068,Eco Wireless Swimming,SPORTS,Swimming,26.86,DeltaWholesale
+PROD-0069,Eco Wireless Lighting,Home & Garden,Lighting,8.5,AlphaSupply
+PROD-0070,Deluxe Silk Kitchenware,home & garden,Kitchenware,334.66,BetaGoods
+PROD-0071,Ultra Leather Kitchenware,Home and Garden,Kitchenware,459.61,ZetaProducts
+PROD-0072,Ultra Cotton Scarve,CLOTHING,Scarves,179.67,GammaTrade
+PROD-0073,Compact Wooden Boxing,SPORTS,Boxing,207.52,KappaSource
+PROD-0074,Classic Wireless Shoe,Apparel,Shoes,117.66,ThetaImports
+PROD-0075,Smart Titanium Non-Fiction,Books,Non-Fiction,36.23,ZetaProducts
+PROD-0076,Eco Recycled Cookbook,books,Cookbooks,48.26,AlphaSupply
+PROD-0077,Compact Wireless Non-Fiction,Books,Non-Fiction,40.39,LambdaVendor
+PROD-0078,Ultra Wooden Yoga,Sports,Yoga,-125.65,KappaSource
+PROD-0079,Premium Wireless Fiction,Books,Fiction,42.34,BetaGoods
+PROD-0080,Premium Cotton Cleaning,home & garden,Cleaning,371.78,AlphaSupply
+PROD-0081,Essential Digital Dresse,CLOTHING,Dresses,180.05,EpsilonDist
+PROD-0082,Classic Cotton Charger,electronics,Chargers,16.03,BetaGoods
+PROD-0083,Eco Steel Jacket,Clothing,Jackets,168.21,BetaGoods
+PROD-0084,Essential Digital Storage,Home&Garden,Storage,421.8,IotaMfg
+PROD-0085,Essential Steel Football,Sport,Football,61.95,GammaTrade
+PROD-0086,Eco Wireless Cycling,Sport,Cycling,92.51,ZetaProducts
+PROD-0087,Classic Titanium Storage,,Storage,211.94,IotaMfg
+PROD-0088,Compact Wireless Speaker,Electronics,Speakers,49.53,IotaMfg
+PROD-0089,Eco Titanium Camera,electronics,Cameras,288.46,KappaSource
+PROD-0090,Smart Cotton Hat,CLOTHING,Hats,43.14,LambdaVendor
+PROD-0091,Deluxe Wireless Cleaning,Home and Garden,Cleaning,462.19,IotaMfg
+PROD-0092,Essential Leather Self-Help,BOOKS,Self-Help,36.87,EpsilonDist
+PROD-0093,Compact Leather Hat,,Hats,167.67,GammaTrade
+PROD-0094,Eco Titanium Jean,Clothing,Jeans,71.49,DeltaWholesale
+PROD-0095,Ultra Cotton Tablet,Electornics,Tablets,76.93,BetaGoods
+PROD-0096,Premium Wooden Cookbook,BOOKS,Cookbooks,19.44,LambdaVendor
+PROD-0097,Deluxe Titanium Cycling,sports,Cycling,135.74,GammaTrade
+PROD-0098,Compact Steel Children,Books,Children,33.3,GammaTrade
+PROD-0099,Compact Silk Camera,Electornics,Cameras,866.65,KappaSource
+PROD-0100,Compact Titanium Children,Books,Children,27.53,GammaTrade
+PROD-0101,Ultra Cotton Charger,Electornics,Chargers,576.04,BetaGoods
+PROD-0102,Premium Leather Charger,electronics,Chargers,-547.88,EpsilonDist
+PROD-0103,Classic Wooden Storage,home & garden,Storage,484.24,KappaSource
+PROD-0104,Compact Steel Yoga,Sport,Yoga,167.4,EpsilonDist
+PROD-0105,Ultra Wireless Smartphone,ELECTRONICS,Smartphones,213.29,DeltaWholesale
+PROD-0106,Pro Titanium Tenni,Sports,Tennis,29.28,AlphaSupply
+PROD-0107,Compact Leather Lighting,Home&Garden,Lighting,465.1,GammaTrade
+PROD-0108,Premium Titanium Furniture,Home & Garden,Furniture,256.75,EpsilonDist
+PROD-0109,Premium Digital T-Shirt,Clothing,T-Shirts,111.49,AlphaSupply
+PROD-0110,Ultra Recycled Gym Equipment,Sports,Gym Equipment,211.06,GammaTrade
+PROD-0111,Compact Organic Charger,Electronics,Chargers,362.15,DeltaWholesale
+PROD-0112,Pro Recycled Jean,Clothing,Jeans,152.01,LambdaVendor
+PROD-0113,Premium Cotton Smartphone,electronics,Smartphones,71.74,ZetaProducts
+PROD-0114,Essential Leather Bedding,home & garden,Bedding,202.51,BetaGoods
+PROD-0115,Basic Digital Bedding,Home&Garden,Bedding,225.1,KappaSource
+PROD-0116,Basic Silk Bedding,home & garden,Bedding,254.69,LambdaVendor
+PROD-0117,Pro Wooden Comic,Books,Comics,42.85,KappaSource
+PROD-0118,Essential Steel Jean,Apparel,Jeans,195.79,IotaMfg
+PROD-0119,Premium Wireless Smartphone,Electornics,Smartphones,289.51,BetaGoods
+PROD-0120,Eco Steel Smart Watche,Electornics,Smart Watches,864.96,DeltaWholesale
+PROD-0121,Ultra Silk Academic,BOOKS,Academic,7.34,ZetaProducts
+PROD-0122,Compact Digital Camera,ELECTRONICS,Cameras,761.13,ThetaImports
+PROD-0123,Smart Recycled Fiction,Books,Fiction,47.85,KappaSource
+PROD-0124,Compact Silk Biography,BOOKS,Biography,16.69,DeltaWholesale
+PROD-0125,Deluxe Cotton T-Shirt,Apparel,T-Shirts,199.76,LambdaVendor
+PROD-0126,Deluxe Organic Fiction,BOOKS,Fiction,17.08,LambdaVendor
+PROD-0127,Compact Organic Laptop,ELECTRONICS,Laptops,838.61,AlphaSupply
+PROD-0128,Premium Organic Fiction,books,Fiction,26.6,AlphaSupply
+PROD-0129,Compact Silk Football,SPORTS,Football,99.69,EpsilonDist
+PROD-0130,Pro Wooden Cleaning,Home and Garden,Cleaning,78.56,BetaGoods
+PROD-0131,Compact Organic Tablet,Electornics,Tablets,57.27,EpsilonDist
+PROD-0132,Smart Steel Furniture,home & garden,Furniture,302.68,IotaMfg
+PROD-0133,Pro Organic Laptop,electronics,Laptops,577.23,BetaGoods
+PROD-0134,Premium Organic Comic,Books,Comics,32.3,ZetaProducts
+PROD-0135,Premium Wooden Comic,BOOKS,Comics,21.56,LambdaVendor
+PROD-0136,Basic Silk Laptop,electronics,Laptops,720.31,ZetaProducts
+PROD-0137,Essential Recycled Scarve,Clothing,Scarves,154.89,DeltaWholesale
+PROD-0138,Smart Steel Boxing,Sports,Boxing,185.26,ZetaProducts
+PROD-0139,Pro Organic Bedding,home & garden,Bedding,126.07,IotaMfg
+PROD-0140,Eco Recycled Lighting,Home and Garden,Lighting,184.76,ZetaProducts
+PROD-0141,Ultra Digital Children,books,Children,30.61,KappaSource
+PROD-0142,Compact Wireless Scarve,clothing,Scarves,161.2,ThetaImports
+PROD-0143,Eco Digital Academic,,Academic,45.48,BetaGoods
+PROD-0144,Eco Cotton Comic,BOOKS,Comics,10.68,GammaTrade
+PROD-0145,Ultra Organic Tablet,Electornics,Tablets,141.4,EpsilonDist
+PROD-0146,Compact Leather Camera,ELECTRONICS,Cameras,622.75,ZetaProducts
+PROD-0147,Eco Recycled Biography,BOOKS,Biography,18.01,GammaTrade
+PROD-0148,Premium Leather Football,sports,Football,181.16,ZetaProducts
+PROD-0149,Compact Wireless Academic,BOOKS,Academic,47.5,ZetaProducts
+PROD-0150,Basic Recycled Speaker,ELECTRONICS,Speakers,329.47,DeltaWholesale
