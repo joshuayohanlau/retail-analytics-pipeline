@@ -18,7 +18,7 @@ This project:
 
 ## Star schema
 
-![Star Schema](docs/star_schema.png)
+![Star Schema](https://raw.githubusercontent.com/joshuayohanlau/retail-analytics-pipeline/main/docs/star_schema.png)
 
 The fact table (`fct_order_items`) sits at the order line item grain: one row per product per order. It connects to four dimensions: customers, products, stores, and dates.
 
